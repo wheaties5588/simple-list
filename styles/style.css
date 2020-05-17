@@ -2,3 +2,8 @@
     margin: 20px auto;
     padding: 0;
 }
+
+.checked-item {
+    background-color: #b3b3b3;
+    text-decoration: line-through;
+}
